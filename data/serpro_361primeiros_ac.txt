@@ -1,0 +1,235 @@
+10012500, Lucas Tavares Sousa, 250.00, 1 / 10030186, Michel Klein Pinheiro da
+Silva, 249.00, 2 / 10030382, Tiago de Miranda Leite, 248.00, 3 / 10027879, Diego
+Albuquerque de Araujo, 244.00, 4 / 10016815, Victor Cora Colombo, 244.00, 5 /
+10022349, Clodoaldo Estumano da Silva, 244.00, 6 / 10022575, Antonio Agripino
+Nunes Moura, 244.00, 7 / 10002556, Joeliton da Silva Vieira, 242.00, 8 / 10028520,
+Vitor Tessari Terra, 242.00, 9 / 10021097, Guilherme Moravia Soares de Matos,
+240.00, 10 / 10022478, Gabriel Maia Bezerra, 240.00, 11 / 10010456, Rafael Bays
+Weiler, 239.67, 12 / 10011701, Diogo Anderson de Oliveira Silva, 237.50, 13 /
+10027830, Rafael Kendy Arakaki, 237.00, 14 / 10000442, Joao Vitor da Silva Gomes,
+237.00, 15 / 10014456, Jose Henrique Dometerco, 236.00, 16 / 10013097, Davi
+Braga Tolentino Veloso, 236.00, 17 / 10019962, Bernardo Sobral Werneck, 234.00,
+18 / 10018234, Leonardo Alves Pereira, 233.50, 19 / 10015059, Francy Helder Silva
+de Almeida, 233.00, 20 / 10002852, Luiz Carlos Freire Lima Junior, 232.50, 21 /
+10007213, Jose Felipe Ribeiro Araujo, 230.00, 22 / 10010734, Adail Muniz Retamal,
+230.00, 23 / 10002706, Lucas Torreao Machado, 229.50, 24 / 10000230, Leandro
+Beirao de Miranda, 229.00, 25 / 10001873, Ricardo Nogueira Servino, 229.00, 26 /
+10022893, Vinicius da Silva Picanco, 228.50, 27 / 10009303, Willian Alberto Lauber,
+228.50, 28 / 10001336, Caio Salomao Silva Monteiro, 228.33, 29 / 10005562,
+Vinicius de Santanna Salustiano, 227.00, 30 / 10029053, Maxwell Moura Fernandes,
+227.00, 31 / 10027426, Joao Felipe Nicolaci Pimentel, 226.67, 32 / 10023329,
+Tarcisio Coutinho da Silva, 226.50, 33 / 10029451, Alexandre Rodrigues Coelho,
+226.00, 34 / 10017712, Matheus de Souza Gaspar, 226.00, 35 / 10008643, Nicole
+Martinelli Brum, 225.67, 36 / 10007475, Cleber Alberto Cabral Ferreira da Silva,
+225.00, 37 / 10029297, Leandro Yamachita da Costa, 225.00, 38 / 10018912,
+Matheus Abreu da Costa Correa, 225.00, 39 / 10025098, Henrique Cassiano Souza
+Barros, 224.50, 40 / 10013053, Humberto Henrique Campos Pinheiro, 224.17, 41 /
+10009680, Kleisson Augusto Muchinski, 224.00, 42 / 10000971, Gabriel Alves
+Ribeiro, 224.00, 43 / 10010940, Gabriel Cardoso Lino Alves, 224.00, 44 / 10002155,
+Andre Felipe da Silva Antunes, 224.00, 45 / 10018961, Filipe Amado Vieira, 224.00,
+46 / 10016614, Erikson Kaszubowski, 223.67, 47 / 10005729, Antonio Gabriel da
+Silva Fernandes, 223.50, 48 / 10012296, Mardeni Ferreira de Souza Sa, 222.67, 49 /
+10023762, Fleive Martins, 222.67, 50 / 10032192, Gabriel Soares de Vasconcelos,
+222.50, 51 / 10011481, Franklyn Seabra Rogerio Bezerra, 222.00, 52 / 10009913,
+Mauro Felipe Oliveira Costa, 222.00, 53 / 10023052, Christian Strottmann Kern,
+222.00, 54 / 10006747, Guilherme Pontes Pinto, 222.00, 55 / 10000607, Ricardo
+Correa Leal Paiva, 222.00, 56 / 10032491, Leonardo Melo Costa da Silva, 221.33, 57
+/ 10020744, Gabriel Weich, 221.00, 58 / 10027005, Rafael Monteiro Jorge Alves de
+Souza, 220.50, 59 / 10022044, Rafael Guerra de Pontes, 220.50, 60 / 10007330,
+Pedro Paulo Rodrigues Teixeira Filho, 220.00, 61 / 10020322, Paulo Batista da Cruz
+Junior, 220.00, 62 / 10005606, Adalberto Luis Navarrete Filho, 220.00, 63 /
+10014898, Caio Guilherme Lisboa de Oliveira, 220.00, 64 / 10003306, Carlos
+Gustavo Moratori, 220.00, 65 / 10031220, Arthur Diego Dias Rocha, 220.00, 66 /
+10024061, Anderson Fer Ribeiro Silva, 220.00, 67 / 10028880, Renner Tetzner
+Ramos, 219.67, 68 / 10026031, Rodrigo Naves Rios, 219.50, 69 / 10024902,
+Matheus Oliveira Costa, 219.00, 70 / 10011918, Paulo Thiago Galvao Mascarenhas,
+219.00, 71 / 10013581, Gabriel Garcia de Almeida, 219.00, 72 / 10019147, Joao de
+Santana Brito Junior, 219.00, 73 / 10014329, Iago Carvalho Cavalcante, 219.00, 74 /
+10027187, Mateus Eduardo Dotto, 218.67, 75 / 10018138, Pedro Jorge de Abreu
+Figueredo, 218.67, 76 / 10004727, Felipe Pinheiro Mota Assmann, 218.67, 77 /
+10027928, Kevin Eduard Piske, 218.00, 78 / 10025051, Raildo Barros Rodrigues,
+218.00, 79 / 10010188, Rodrigo Silva Nogueira, 218.00, 80 / 10008369, Thiago
+Trindade de Oliveira, 218.00, 81 / 10014245, Raffaela de Castro Cunha, 218.00, 82 /
+10023608, Victor Peres Goncalves, 218.00, 83 / 10000832, Bruno Rodrigues Lima,
+218.00, 84 / 10018530, Joao Batista Ferreira Bastos Junior, 218.00, 85 / 10010654,
+Rafael Messora Barranco, 218.00, 86 / 10011446, Mateus Costa Teixeira**, 218.00,
+87 / 10018466, Igor Wanderley Cavalcanti, 217.00, 88 / 10021614, Pedro Augusto
+Silva do Amaral, 217.00, 89 / 10015102, Izabela Marina Ferreira da Silva, 216.67, 90
+/ 10013059, Maycon Cafe Reis, 216.67, 91 / 10012886, Lais Baum, 216.67, 92 /
+10030473, Mario Augusto Lopes de Queiroz, 216.67, 93 / 10001408, Rodrigo
+Cavalcanti de Macedo, 216.00, 94 / 10020703, Caio Meireles da Silva Estefaneli,
+216.00, 95 / 10029651, Everson Freitas Giacomelli Junior, 216.00, 96 / 10028754,
+Victor Rezende Geraldini, 216.00, 97 / 10020306, Vitor de Alencastro Lacerda,
+216.00, 98 / 10012771, Gustavo Rodrigues Sousa, 216.00, 99 / 10005559,
+Guilherme Parzianello, 216.00, 100 / 10020025, Marcos Paulo de Almeida Pantuza,
+215.67, 101 / 10015913, Rafael Fernandes de Carvalho, 215.17, 102 / 10014999,
+Felipe Rafael Ferreira Marques, 215.00, 103 / 10012000, Tomas Herculano Cornelio
+Cardoso, 215.00, 104 / 10019578, Felipe Augusto Silva Oliveira, 215.00, 105 /
+10001418, Horacio Brescia de Sousa Henriques, 215.00, 106 / 10010409, Paulo
+Sandino Rivelino Ferreira Guilherme, 215.00, 107 / 10009358, Rafael de Castro
+Silva, 215.00, 108 / 10019720, Allef Kristian Tavares Rocha, 215.00, 109 /
+10002098, Ralph Boeke Rabelo, 214.67, 110 / 10013724, Eduardo Sarruf Pinheiro,
+214.50, 111 / 10025144, Guilherme Virgilio Picinin Oliveira Simoes, 214.50, 112 /
+10008086, Ismael Barreto de Paiva, 214.00, 113 / 10000398, Tarcisio Ribeiro Junior,
+214.00, 114 / 10021493, Marcos Vinicius Lima da Costa, 214.00, 115 / 10013414,
+Juan Garbellotte Bomfm, 214.00, 116 / 10017821, Flavio Bezerra Pereira, 214.00,
+117 / 10025282, Gustavo Soares de Moura, 214.00, 118 / 10029745, Luciano
+Rodrigues Saraiva Leao, 213.67, 119 / 10028738, Jonathan Kelvin de Jesus Santos,
+213.50, 120 / 10027955, Frederico Sardi Ayestaran, 213.50, 121 / 10001690,
+Eduardo Sousa da Silva, 213.17, 122 / 10014350, Marcelo Gomes Brito, 213.00, 123
+/ 10019487, Vinicius Augusto Zanetti, 213.00, 124 / 10013845, Victor Hugo de Lima
+Kunst, 213.00, 125 / 10023348, Gabriel Alves Evangelista, 213.00, 126 / 10010361,
+Brenno Izaias Cardoso Nascimento, 213.00, 127 / 10026255, Letricia Pereira Soares
+Avalhais, 212.67, 128 / 10021230, Celso Goncalves Junior, 212.67, 129 / 10016779,
+Ana Paula Brandao Lopes, 212.50, 130 / 10013544, Renata Zottis Junges, 212.50,
+131 / 10005216, Thailan Ramos da Silva, 212.50, 132 / 10012403, Evandro Pereira
+de Lacerda, 212.00, 133 / 10001192, Elano do Nascimento Rodrigues, 212.00, 134 /
+10009006, Felipe Carolino Machado, 212.00, 135 / 10008774, Manuel Barao
+Rodrigues Soldado, 212.00, 136 / 10018299, Edson Sousa de Oliveira Junior, 212.00,
+137 / 10028878, Luis Henrique Araujo Martins, 212.00, 138 / 10010417, Anderson
+Gomes Andrade, 212.00, 139 / 10001633, Pedro Gabriel Calixto Mendonca, 212.00,
+140 / 10029570, Marcos Aurelio Constant de Souza Filho, 212.00, 141 / 10017795,
+Ramon Costa Nunes, 211.50, 142 / 10005088, Fernando Rodrigues Ferreira, 211.17,
+143 / 10014560, Marcelo Medeiros da Silva, 211.00, 144 / 10013644, Danniel
+Albuquerque Araujo, 211.00, 145 / 10007012, Bruno Henrique Prybecz, 211.00,
+146 / 10016169, Ailton Ferreira de Medeiros Junior, 211.00, 147 / 10006430,
+Raphael de Assis Silva, 211.00, 148 / 10000968, Luis Artur Freiria Dallacqua,
+211.00, 149 / 10030690, Andrew Ribeiro Fraga, 211.00, 150 / 10010129, Renato
+Toshiaki Shibata, 211.00, 151 / 10017408, Alvaro Ian de Andrade Sousa, 211.00,
+152 / 10010369, Felipe Vasconcelos de Souza, 211.00, 153 / 10007133, Davi
+Antonio da Silva Santos, 211.00, 154 / 10027622, Jheffrey Thulyo dos Santos,
+210.67, 155 / 10015472, Flavio Cordeiro Rocha Junior, 210.50, 156 / 10026171,
+Vinicius Barbosa Alencar e Sa, 210.50, 157 / 10021703, Fernando Lobo Martins,
+210.50, 158 / 10007290, Andre Luis Ferreira Sa, 210.50, 159 / 10021806, Fabio Luiz
+Alvares Osti, 210.17, 160 / 10008655, Vinicius Passos de Oliveira Soares, 210.17,
+161 / 10030169, Denis Dayvison de Freitas, 210.00, 162 / 10014243, Sergio Endrigo
+de Barros Bezerra Ferreira, 210.00, 163 / 10018846, Jesuan Felipe Peres Barbosa,
+210.00, 164 / 10027989, Arthur Wallace Silva Lopes, 210.00, 165 / 10004465,
+Ricardo Cardozo Silveira, 210.00, 166 / 10016724, Diogo Alves Araujo, 210.00, 167 /
+10026261, Andre Minoro Fusioka, 210.00, 168 / 10023995, Welison Lucas Almeida
+Regis, 210.00, 169 / 10010346, Pedro Correia de Siracusa, 210.00, 170 / 10024157,
+Rafael Peres Goncalves, 210.00, 171 / 10012621, Gabriel Reis Martins Daim,
+210.00, 172 / 10001406, Felipe Kenzo Shiraishi, 209.67, 173 / 10028437, Nelson
+Alves Pereira Filho, 209.67, 174 / 10014343, Jair Rocha de Oliveira Neto, 209.67,
+175 / 10027366, Joao Vitor de Melo Machado, 209.50, 176 / 10031054, Marcos
+Paulo Pinheiro Correa, 209.50, 177 / 10017558, Joao Tribouillet Marcial de Menezes,
+209.50, 178 / 10016887, Paulo Cesar Marques Lopes, 209.50, 179 / 10027384,
+Romulo Vieira Lara, 209.00, 180 / 10001080, Joel Cruz Soares, 209.00, 181 /
+10023600, Andre Luciano Claret, 209.00, 182 / 10030561, Marcos Martins de Sa
+Fonseca, 209.00, 183 / 10009162, Estevam Cardoso Lopes da Silva, 209.00, 184 /
+10027253, Gert Uchoa Muller Neto, 209.00, 185 / 10007657, Ian Athaydes
+Fadanelli, 209.00, 186 / 10024818, Marcos Jose Santanna Magalhaes, 209.00, 187 /
+10023398, Manoel Gilvan Calou de Araujo e Sa Filho, 209.00, 188 / 10003936, Elia
+Melfior, 209.00, 189 / 10018969, Rafaela de Castro do Nascimento, 208.67, 190 /
+10020001, Raphael Couto Ferreira, 208.67, 191 / 10008977, Jonas Sousa Leandro,
+208.67, 192 / 10009248, Pedro Picanco, 208.67, 193 / 10017516, Fabio Tavares
+Oliveira, 208.67, 194 / 10011236, Marcelo Teixeira Silveira, 208.67, 195 /
+10004962, Diogo da Costa Colem, 208.50, 196 / 10014269, Luis Augusto Siqueira
+Mourao Soares, 208.50, 197 / 10002968, Alyson Jhones de Souza Andrade, 208.50,
+198 / 10023943, Jose Leandro Santana Souza, 208.50, 199 / 10018809, Camila
+Medeiros Rego, 208.50, 200 / 10002912, Matheus Richter, 208.50, 201 / 10026672,
+Luigi Azevedo Soares dos Santos, 208.00, 202 / 10000436, Manasses Ferreira Neto,
+208.00, 203 / 10024244, Adonay Aum Veiga, 208.00, 204 / 10017547, Luis Fillipe
+Nunes Lopes, 208.00, 205 / 10027166, Suzana Yamauchi, 208.00, 206 / 10011951,
+Julio Cesar de Carvalho Barros, 208.00, 207 / 10014156, Leticia de Cassia Santin,
+208.00, 208 / 10001698, Kaue Vetorazi, 207.83, 209 / 10015082, Jose dos Santos
+Filho, 207.67, 210 / 10014602, Mateus Passos Soares Cardoso, 207.67, 211 /
+10018515, Rafael de Amorim e Silva, 207.67, 212 / 10013270, Sergio Pereira de
+Oliveira Junior, 207.67, 213 / 10000800, Paula Christina Andrade de Sa, 207.17, 214
+/ 10021627, Giovane de Jesus Oliveira Freitas, 207.00, 215 / 10028440, Rafael
+Menezes da Silva, 207.00, 216 / 10025133, Anderson Severo de Matos, 207.00,
+217 / 10018035, Bruna Alves Wanderley de Siqueira, 207.00, 218 / 10009304, Vitor
+Alcantara de Almeida, 207.00, 219 / 10030903, Joao Marcos Flach, 207.00, 220 /
+10016642, Daniel Hespanhol Vieira, 207.00, 221 / 10001923, Rafael Nutti
+Maldonado, 207.00, 222 / 10024077, Walisson Cardoso Gomes, 207.00, 223 /
+10022720, Guilherme dos Santos Padilha, 207.00, 224 / 10021287, Hiago de Souza
+Cruz Alves e Silva, 207.00, 225 / 10017343, Brenda Nayara da Silva, 207.00, 226 /
+10002520, Eduardo Vinicius Souza da Silva Correia, 206.67, 227 / 10028043, Thiago
+Cesar de Miranda Silva, 206.67, 228 / 10021757, Victor Hugo Garcia de Farias,
+206.50, 229 / 10022969, Yuri Costa dos Santos, 206.50, 230 / 10031417, Jose
+Augusto dos Santos Silva, 206.50, 231 / 10011744, Luiz Henrique Anjos Cardim,
+206.50, 232 / 10003712, Estevao Bissoli Saleme, 206.17, 233 / 10010796, Ilson Jose
+Buss, 206.17, 234 / 10018404, Thiago William Machado, 206.00, 235 / 10031400,
+Caio Sacramento de Britto Almeida, 206.00, 236 / 10009112, John Hunhoff, 206.00,
+237 / 10024571, Frantchesco Cecchin, 206.00, 238 / 10021112, Gustavo da Silva
+Moraes, 206.00, 239 / 10025501, Eduardo Matheus Bernardo Silva, 206.00, 240 /
+10012245, Marina Gabriela Bezerra, 206.00, 241 / 10009473, Ricardo Silva de
+Almeida, 206.00, 242 / 10000916, Arthur Aleksandro Alves Silva, 206.00, 243 /
+10019723, Wladimir Livolis de Alcantara Cabral, 206.00, 244 / 10021654, Caique
+Porto Lira, 206.00, 245 / 10009359, Vinicius Pereira Mateus Borges, 206.00, 246 /
+10003687, Marcio Henrique Barbosa Coutinho, 206.00, 247 / 10016643, Matheus
+Gomes de Sousa, 206.00, 248 / 10002898, Rodrigo Nedir Drebes Soares, 205.67,
+249 / 10027872, Ramon Francescolli Costa, 205.50, 250 / 10011412, Andre da Silva
+Queiroz, 205.00, 251 / 10009027, Kleyton da Costa Lopes, 205.00, 252 / 10021117,
+Diego Magalhaes de Melo, 205.00, 253 / 10024089, Alberto da Cruz Lima Sobrinho,
+205.00, 254 / 10025519, Giovane de Oliveira Torres, 205.00, 255 / 10001474,
+Kerven Maciel Monteiro de Albuquerque, 205.00, 256 / 10020293, Vinicius Venancio
+Silva, 205.00, 257 / 10031980, Cassiano Delgado Araujo Bruckhoff, 205.00, 258 /
+10010538, Mateus Fellipe Alves Lopes, 204.67, 259 / 10019795, Jordielson Emanuel
+Caldeira da Silva, 204.67, 260 / 10014070, Marcos Tiago Ferreira Henriques,
+204.67, 261 / 10021440, Helio Diniz, 204.67, 262 / 10010783, Diego Oliveira da
+Silva, 204.50, 263 / 10011923, Renan Krzesinski, 204.50, 264 / 10024195, Vitor
+Filincowsky Ribeiro, 204.50, 265 / 10009831, Thiago Barroso Maciel, 204.50, 266 /
+10002028, Cesar Murilo da Silva Junior, 204.00, 267 / 10027636, Jose da Costa
+Nunes Neto, 204.00, 268 / 10004008, Lairson Emanuel Rodrigues de Alencar
+Oliveira, 204.00, 269 / 10007783, Luiz Henrique Teixeira Mendes, 204.00, 270 /
+10025155, Felipe Mello Santos, 204.00, 271 / 10029167, Joao Breno Rodrigues
+Venancio, 204.00, 272 / 10023293, Guilherme Balog Gardino, 204.00, 273 /
+10015100, Gustavo Leite Silvano, 204.00, 274 / 10019201, Vinicius Filipaki, 204.00,
+275 / 10021404, Mayko Born Machado, 204.00, 276 / 10017967, Fabio Mendes
+Soares, 204.00, 277 / 10025549, Paulo Vinicius Vasconcellos Batista, 204.00, 278 /
+10008090, Felipe Cruz Alencar de Macedo, 204.00, 279 / 10002865, Cristiano Lima
+Sobrinho, 204.00, 280 / 10023408, Daniel Rios Couto, 203.50, 281 / 10016556,
+Erico Correia de Alcantara, 203.50, 282 / 10004209, Luiz Sergio Samico Maciel Filho,
+203.50, 283 / 10031924, Ricardo de Araujo Coelho, 203.50, 284 / 10009726, Luis
+Guilherme Uhlig, 203.50, 285 / 10021868, Fabricio Silva Melo, 203.50, 286 /
+10000123, Joselmo Alberto Cabral Junior, 203.17, 287 / 10009125, Igor Luciano
+Cavalcanti Lima, 203.00, 288 / 10002971, Hans Newton Fonseca Cantanhede,
+203.00, 289 / 10020110, Gilberto Alves Pereira, 203.00, 290 / 10018185, Tiago
+Barabasz, 203.00, 291 / 10031297, Alex Santos de Oliveira, 203.00, 292 /
+10021545, Vitor Cardoso Xoteslem, 203.00, 293 / 10014063, Luis Guilherme
+Gaboardi Lins, 203.00, 294 / 10000074, Daniel Pereira Cinalli, 203.00, 295 /
+10002165, Eusebio Lopes de Sousa Neto, 203.00, 296 / 10015357, Ruan de
+Medeiros Bahia, 203.00, 297 / 10025950, Joao Vitor Ribeiro da Silva, 203.00, 298 /
+10015450, Hosana Gomes Pinto, 202.67, 299 / 10023632, Victor Queiroga
+Crescencio da Costa, 202.67, 300 / 10025362, Guilherme Crespo Gomes dos
+Santos, 202.67, 301 / 10018614, Andre Rodrigues Pereira, 202.67, 302 / 10028249,
+Felipe Bernard de Oliveira Soares Diniz, 202.50, 303 / 10000602, Marcelo Augusto
+de Carvalho, 202.50, 304 / 10023634, Eric Bernd Gil, 202.50, 305 / 10014122,
+Neimar Coelho Rech, 202.50, 306 / 10023880, Lucas Guarise, 202.17, 307 /
+10021914, Joao Gabriel Ramos Beltrao de Melo, 202.17, 308 / 10026243, Jorge
+Araujo Bezerra, 202.00, 309 / 10015649, Caio Alexandre Nascimento da Silva,
+202.00, 310 / 10024490, Anderson Jose Silva de Oliveira, 202.00, 311 / 10013449,
+Vitoria Vieira de Oliveira Freitas, 202.00, 312 / 10027478, Yllan Vinicius Ferreira
+Gurgel, 202.00, 313 / 10023654, Ronaldo Prata Amorim, 202.00, 314 / 10013850,
+Ali Marques dos Santos, 202.00, 315 / 10004577, Edson Matheus Alexandre Cizeski,
+202.00, 316 / 10028811, Carlos Masao Mito, 202.00, 317 / 10004449, Cassio Fabius
+Cambraia Ribeiro, 202.00, 318 / 10001864, Rodrigo Hideki Koga, 202.00, 319 /
+10019755, Rodrigo da Silva Brandao, 202.00, 320 / 10023560, Cleiton Marques
+Bittencourt, 201.67, 321 / 10016037, Eric dos Santos Coelho, 201.50, 322 /
+10011272, Hellyan Alves de Oliveira, 201.50, 323 / 10005613, Ana Clara Malheiro
+Smera Batista, 201.50, 324 / 10012686, Matheus da Silva Jahnke, 201.50, 325 /
+10012374, Einstein Ramos de Almeida, 201.17, 326 / 10025276, Gabriel Alves
+Vasiljevic Mendes, 201.17, 327 / 10023244, Dennis Ferreira Silva, 201.00, 328 /
+10027772, Evandro Miguel Kuszera, 201.00, 329 / 10002143, Pedro Pablo Freitas
+Martins Polanco, 201.00, 330 / 10007175, Rafael Vital Lacerda Alves, 201.00, 331 /
+10010336, Anderson Josue Pantoja Freire, 201.00, 332 / 10022002, Thiago Tallison
+Araujo Fernandes, 201.00, 333 / 10015425, Lucas Lopes dos Santos, 201.00, 334 /
+10032042, Guilherme Artur Fucks Martins, 200.67, 335 / 10003490, Yuri Matheus
+Barboza de Oliveira, 200.67, 336 / 10005066, Franklin de Jesus Santos, 200.67,
+337 / 10027843, Hugo Thiago de Holanda Oliveira, 200.67, 338 / 10005702, Jonas
+de Oliveira Castro Neto, 200.67, 339 / 10031697, Thales Siqueira Couto, 200.50,
+340 / 10020096, Hernandes Carneiro Macedo, 200.50, 341 / 10021222, Daniel
+Santos de Carvalho, 200.50, 342 / 10011938, Ery Moura Ferreira Maciel, 200.50,
+343 / 10016592, Alexandre Tadeu Belisario da Silva, 200.50, 344 / 10007915,
+Danilo Carlos Fonseca Praxedes, 200.50, 345 / 10026436, Rodrigo Cezar Silveira,
+200.50, 346 / 10003102, Lucas Albuquerque Lisboa, 200.17, 347 / 10018887,
+Edward Seidy Izawa, 200.00, 348 / 10002845, Joao Wilian dos Reis, 200.00, 349 /
+10028776, Guilherme Haag Ribacki, 200.00, 350 / 10015928, Guilherme Guy de
+Andrade, 200.00, 351 / 10027627, Thiago Martins Motta, 200.00, 352 / 10016713,
+Bruno Brasil Ferreira, 200.00, 353 / 10008616, Frederico Wagner Carneiro
+Rodrigues de Jesus, 200.00, 354 / 10031472, Antonino Alves Feitosa Neto, 200.00,
+355 / 10027574, Samuel Sobral dos Santos, 200.00, 356 / 10008801, Rubem Morais
+Novelino Ferraz, 200.00, 357 / 10025883, Reinaldo de Carvalho Silva, 200.00, 358 /
+10010466, Lucas Rocha Muniz, 200.00, 359 / 10010563, Vinicius Soares de Paula
+Souza, 200.00, 360 / 10026545, Rafael Monteiro Rodrigues, 200.00, 361
