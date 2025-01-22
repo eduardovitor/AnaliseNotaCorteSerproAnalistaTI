@@ -55,6 +55,6 @@ O projeto seguirá as fases do Data Analytics Lifecycle:
 
 ## Resultados
 
-A análise completa está presente no arquivo <code>.ipynb</code>, que pode ser visualizada no próprio github. 
+A análise completa está presente no arquivo <code>.ipynb</code>, que pode ser visualizada no próprio github. Veja abaixo o histograma da porcentagem de acertos dos classificados em ampla concorrência.
 
 ![Distribuição de porcentagem de notas](img/distribuicao_pct_notas.png)
